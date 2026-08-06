@@ -1,5 +1,3 @@
-import React from 'react';
-
 function BrandLogo({ footer = false, onClick }) {
   return (
     <a
