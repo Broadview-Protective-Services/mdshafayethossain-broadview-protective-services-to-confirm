@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-labelledby="title desc">
+  <title id="title">broadviewprotectiveservices.com logo</title>
+  <desc id="desc">Blue and gray shield with stylized letter B and the domain broadviewprotectiveservices.com.</desc>
+  <defs>
+    <linearGradient id="shieldGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2365"/>
+      <stop offset="100%" stop-color="#1E3A79"/>
+    </linearGradient>
+    <linearGradient id="shieldAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5D6A8B"/>
+      <stop offset="100%" stop-color="#8C919A"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(10 10)">
+    <path d="M170 0 C90 0 40 40 40 90 C40 108 72 128 170 120 C268 128 300 108 300 90 C300 40 250 0 170 0 Z" fill="url(#shieldGradient)"/>
+    <path d="M170 0 C250 0 300 40 300 90 C300 108 268 128 170 120" fill="none" stroke="url(#shieldAccent)" stroke-width="16"/>
+    <path d="M120 24 L120 84 C120 90 126 96 132 96 H156 C176 96 188 86 188 72 C188 62 180 56 168 56 C184 56 194 48 194 34 C194 24 184 16 170 16 H132 C126 16 120 20 120 24 Z" fill="#FFFFFF"/>
+    <path d="M132 24 H170 C176 24 180 28 180 34 C180 40 176 44 170 44 H144 V52 H168 C182 52 190 58 190 70 C190 82 182 88 168 88 H132 C126 88 120 84 120 78 V34 C120 28 126 24 132 24 Z" fill="#0F2365"/>
+    <path d="M120 50 H168" fill="none" stroke="#0F2365" stroke-width="10" stroke-linecap="round"/>
+  </g>
+</svg>
